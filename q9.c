@@ -1,6 +1,5 @@
 //C program to enter a number and print it in words (0-100000)
 
-#include<stdlib.h>
 #include<stdio.h>
 void main()
 {
